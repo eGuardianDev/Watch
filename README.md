@@ -5,12 +5,12 @@
 
 
 ### Research
- [] Bluetooth, WIFI, ESP-Now compatability at the same time
- [] RTOS
- [] File system with file sysmtem
- [] Program runner | Lua or Python interpreter or some kind of program making
- [] Interface custom "Driver" compatability for diffrent sensors
- [] Automatic band 
+ - [ ] Bluetooth, WIFI, ESP-Now compatability at the same time
+ - [ ] RTOS
+ - [ ] File system with file sysmtem
+ - [ ] Program runner | Lua or Python interpreter or some kind of program making
+ - [ ] Interface custom "Driver" compatability for diffrent sensors
+ - [ ] Automatic band 
  
 ### Ideas for apps
  - Docking mode - inspired by Iphone StandBy mode
